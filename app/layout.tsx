@@ -2,13 +2,13 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Building Construction & Interior Designers in Perambalur | Vijaya Construction",
+  title: "Vijaya Construction | Best Building Contractors & Interior Designers in Perambalur",
   description: "House construction and interior design services in Perambalur. Quality building, modern interiors, and trusted civil contractors – Vijaya Construction.",
   keywords: "Vijaya Construction, Building construction in Perambalur, Best Builders in Perambalur, Civil Contractors in Perambalur, House construction Perambalur, Interior designers Perambalur",
   authors: [{ name: "Vijaya Construction" }],
   robots: "index, follow",
   openGraph: {
-    title: "Building Construction & Interior Designers in Perambalur | Vijaya Construction",
+    title: "Vijaya Construction | Best Building Contractors & Interior Designers in Perambalur",
     description: "House construction and interior design services in Perambalur. Quality building, modern interiors, and trusted civil contractors – Vijaya Construction.",
     url: "https://www.vijayaconstructionpblr.com",
     siteName: "Vijaya Construction",
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Building Construction & Interior Designers in Perambalur | Vijaya Construction",
+    title: "Vijaya Construction | Best Building Contractors & Interior Designers in Perambalur",
     description: "House construction and interior design services in Perambalur. Quality building, modern interiors, and trusted civil contractors.",
   },
   alternates: {
